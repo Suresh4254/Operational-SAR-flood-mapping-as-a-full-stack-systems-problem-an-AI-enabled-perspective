@@ -212,15 +212,3 @@ Supporting files: `Initial_sample.py`, `Fuzzy_logic_core.py`, `initial_threshold
 Function-level comments in each file describe the local step, not a second copy of this README.
 
 ---
-
-## Citation
-
-```
-Yang Q (2026) Operational SAR flood mapping as a full-stack systems problem:
-an AI-enabled perspective. Front. Water 8:1871753.
-doi: 10.3389/frwa.2026.1871753
-```
-
-Paper: https://doi.org/10.3389/frwa.2026.1871753
-
-Contact: Qing(Henry) Yang, `henryqy@umd.edu`
